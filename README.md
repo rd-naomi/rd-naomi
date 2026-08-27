@@ -1,7 +1,7 @@
 <h1 align="center">Naomi Rodríguez</h1>
 
 <h3 align="center">
-  Estudiante de Tecnologías de la Información | QA / Software Testing
+  Software Tester | QA Manual | Estudiante de Tecnologías de la Información
 </h3>
 
 <p align="center">
@@ -16,24 +16,24 @@
 
 <p>
 Soy estudiante de la <strong>Licenciatura en Tecnologías de la Información</strong>,
-orientada al área de <strong>Quality Assurance y Software Testing</strong>.
+enfocada en desarrollarme profesionalmente como <strong>Software Tester</strong>.
 </p>
 
 <p>
-Mi experiencia en proyectos académicos incluye el análisis de requisitos,
-diseño y ejecución de casos de prueba, pruebas funcionales, regresión,
-integración, pruebas exploratorias y testing de APIs y aplicaciones Web.
+Cuento con experiencia práctica en proyectos académicos realizando
+<strong>diseño y ejecución de casos de prueba</strong>, pruebas funcionales,
+de integración, regresión, exploratorias y <strong>testing de APIs y aplicaciones Web</strong>.
 </p>
 
 <p>
 También cuento con conocimientos de desarrollo, bases de datos y APIs,
-lo que me permite comprender el funcionamiento del sistema y analizar
-los problemas desde una perspectiva más completa.
+lo que me permite comprender el funcionamiento de los sistemas y analizar
+los defectos desde una perspectiva técnica.
 </p>
 
 ---
 
-<h2>🧪 QA & Software Testing</h2>
+<h2>🧪 Software Testing</h2>
 
 <ul>
   <li>Diseño y ejecución de casos de prueba</li>
@@ -46,14 +46,13 @@ los problemas desde una perspectiva más completa.
   <li>Pruebas de aplicaciones Web</li>
   <li>Partición de equivalencia</li>
   <li>Tablas de decisión</li>
-  <li>Análisis y gestión de riesgos</li>
-  <li>Identificación y seguimiento de defectos</li>
   <li>Validación de reglas de negocio</li>
-  <li>Análisis de métricas de calidad</li>
-  <li>Elaboración de informes de pruebas</li>
+  <li>Identificación y seguimiento de defectos</li>
+  <li>Análisis y gestión de riesgos</li>
+  <li>Métricas e informes de pruebas</li>
 </ul>
 
-<h3>Herramientas</h3>
+<h3>Herramientas de Testing</h3>
 
 <p>
 <strong>TestLink</strong> ·
@@ -61,27 +60,26 @@ los problemas desde una perspectiva más completa.
 <strong>Postman</strong> ·
 <strong>JMeter</strong> ·
 <strong>Katalon</strong> ·
-<strong>Excel / CSV</strong>
 </p>
 
 ---
 
-<h2> Proyectos destacados</h2>
+<h2>🚀 Proyectos destacados</h2>
 
-<h3> Sistema de Gestión de Mantenimiento del Equipamiento Clínico-Hospitalario</h3>
+<h3>🏥 Sistema de Gestión de Mantenimiento del Equipamiento Clínico-Hospitalario</h3>
 
 <p>
-Proyecto académico desarrollado en equipo, en el que participé tanto en
-el desarrollo del sistema como en su posterior proceso de
-<strong>Quality Assurance</strong>.
+Proyecto académico desarrollado en equipo, en el que participé en el
+desarrollo del sistema y posteriormente en su proceso de
+<strong>Software Testing</strong>.
 </p>
 
 <p>
-Desde el área de testing se trabajó en el análisis de requisitos,
+Desde el área de testing trabajé en el análisis de requisitos,
 diseño de casos de prueba mediante <strong>Partición de Equivalencia</strong>
 y <strong>Tablas de Decisión</strong>, ejecución de pruebas,
-identificación y seguimiento de defectos, pruebas de regresión y
-elaboración del informe final.
+identificación y seguimiento de defectos, pruebas de regresión
+y elaboración de informes de pruebas.
 </p>
 
 <p>
@@ -98,14 +96,15 @@ Regresión · Exploratorias
 <h3> ASUR — Sistema de Gestión Institucional</h3>
 
 <p>
-Proyecto académico de QA sobre una plataforma de gestión institucional
-desarrollada para la <strong>Asociación de Sordos del Uruguay (ASUR)</strong>.
+Proyecto académico de QA realizado sobre una plataforma de gestión
+institucional desarrollada para la <strong>Asociación de Sordos del Uruguay (ASUR)</strong>.
 </p>
 
 <p>
 Las pruebas abarcaron tanto la <strong>API REST</strong> como la
 <strong>aplicación Web</strong>, trabajando sobre diferentes versiones
-del sistema y realizando seguimiento de defectos y pruebas de regresión.
+del sistema, ejecutando pruebas y realizando seguimiento de defectos
+y regresiones.
 </p>
 
 <ul>
@@ -121,7 +120,35 @@ del sistema y realizando seguimiento de defectos y pruebas de regresión.
 </ul>
 
 ---
-<h2>🛠️ Tecnologías y herramientas</h2>
+
+<h3> Veterinaria — Suite de Pruebas</h3>
+
+<p>
+Proyecto de testing orientado a la validación funcional de un sistema
+de gestión veterinaria.
+</p>
+
+<p>
+La suite incluye diseño y ejecución de casos de prueba para los módulos
+<strong>Cliente, Mascota, Veterinario y Consulta</strong>, utilizando
+técnicas de caja negra y validando tanto escenarios positivos como
+negativos.
+</p>
+
+<p>
+Se trabajó especialmente sobre validaciones de datos, campos obligatorios,
+reglas de negocio, relaciones entre entidades, filtros y manejo de
+entradas inválidas.
+</p>
+
+<p>
+<strong>Testing:</strong> Diseño de casos · Caja negra · Validaciones ·
+Reglas de negocio · Pruebas negativas · Gestión de defectos
+</p>
+
+---
+
+<h2>Conocimientos técnicos</h2>
 
 <p>
 <strong>Lenguajes:</strong>
@@ -139,24 +166,20 @@ Oracle · PostgreSQL · MySQL · MongoDB
 </p>
 
 <p>
-<strong>QA & Testing:</strong>
-TestLink · MantisBT · Postman · JMeter · Katalon
-</p>
-
-<p>
-<strong>Herramientas:</strong>
+<strong>Infraestructura y herramientas:</strong>
 Git · Docker · Linux · Figma
 </p>
 
 ---
 
-<h2>📚 Actualmente aprendiendo</h2>
+<h2>📚 Formación</h2>
 
 <p>
-Actualmente estoy cursando el <strong>6.º semestre de la Licenciatura en Tecnologías de la Información</strong>,
-continuando mi formación en desarrollo de software, testing y tecnologías de la información.
+Actualmente curso el <strong>6.º semestre de la Licenciatura en Tecnologías
+de la Información</strong>, continuando mi formación en testing,
+desarrollo de software y tecnologías de la información.
 </p>
 
+---
 
-<h3 align="center">QA · Testing </h3>
-
+<h3 align="center">Software Testing · QA Manual · Functional Testing</h3>
