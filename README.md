@@ -19,8 +19,10 @@ Estudiante de Tecnologías de la Información
 
 <p>
 Soy estudiante de la <strong>Licenciatura en Tecnologías de la Información</strong>,
-enfocada en desarrollarme profesionalmente como <strong>Software Tester</strong>.
+interesada en desarrollarme profesionalmente en áreas relacionadas con el
+<strong>análisis, la calidad y las pruebas de software</strong>.
 </p>
+
 
 <p>
 Cuento con experiencia práctica en proyectos académicos realizando
