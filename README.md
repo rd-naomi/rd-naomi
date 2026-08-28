@@ -1,12 +1,15 @@
 <h1 align="center">Naomi Rodríguez</h1>
 
 <h3 align="center">
-  Software Tester | QA Manual | Estudiante de Tecnologías de la Información
+Estudiante de Tecnologías de la Información
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naomirodriguezd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/rd-naomi/portafoliot/blob/main/README.md" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-success?style=for-the-badge&logo=github" alt="Portfolio"/>
   </a>
 </p>
 
@@ -59,7 +62,7 @@ los defectos desde una perspectiva técnica.
 <strong>MantisBT</strong> ·
 <strong>Postman</strong> ·
 <strong>JMeter</strong> ·
-<strong>Katalon</strong> ·
+<strong>Katalon</strong>
 </p>
 
 ---
@@ -91,9 +94,13 @@ Regresión · Exploratorias
 <strong>Tecnologías:</strong> Java / JEE · Oracle · WildFly
 </p>
 
+<p>
+👉 <a href="https://github.com/rd-naomi/portafoliot/blob/main/equipamiento-cl%C3%ADnico-hospitalario-desktop/README.md" target="_blank"><strong>Ver proyecto y documentación →</strong></a>
+</p>
+
 ---
 
-<h3> ASUR — Sistema de Gestión Institucional</h3>
+<h3>🧏 ASUR — Sistema de Gestión Institucional</h3>
 
 <p>
 Proyecto académico de QA realizado sobre una plataforma de gestión
@@ -119,9 +126,13 @@ y regresiones.
   <li>Postman</li>
 </ul>
 
+<p>
+👉 <a href="https://github.com/rd-naomi/portafoliot/blob/main/asur/README.md" target="_blank"><strong>Ver proyecto y documentación →</strong></a>
+</p>
+
 ---
 
-<h3> Veterinaria — Suite de Pruebas</h3>
+<h3>🐾 Veterinaria — Suite de Pruebas</h3>
 
 <p>
 Proyecto de testing orientado a la validación funcional de un sistema
@@ -146,9 +157,13 @@ entradas inválidas.
 Reglas de negocio · Pruebas negativas · Gestión de defectos
 </p>
 
+<p>
+👉 <a href="https://github.com/rd-naomi/portafoliot/blob/main/veterinaria/README.md" target="_blank"><strong>Ver proyecto y documentación →</strong></a>
+</p>
+
 ---
 
-<h2>Conocimientos técnicos</h2>
+<h2>💻 Conocimientos técnicos</h2>
 
 <p>
 <strong>Lenguajes:</strong>
